@@ -1,0 +1,43 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "Clash of Clans",
+      "url": "https://i.ytimg.com/vi/jakDUlO86Ac/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9voh-2BMyoqHFI_LsuLQxi0G6Cg",
+      "embededlink": "https://www.youtube.com/embed/jakDUlO86Ac"
+    },
+    {
+      "id": "3",
+      "caption": "Rohit Sharma",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxUO-GwokndX5xQg96jlTJl1x7grDsrCTjjQ&usqp=CAU",
+      "embededlink": "https://www.youtube.com/embed/3MuaiY&t=1s"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Cricket",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Rohit Sharma",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxUO-GwokndX5xQg96jlTJl1x7grDsrCTjjQ&usqp=CAU",
+          "embededlink": "https://www.youtube.com/embed/3MuaiY&t=1s"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryName": "Games",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Clash of Clans",
+          "url": "https://i.ytimg.com/vi/jakDUlO86Ac/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9voh-2BMyoqHFI_LsuLQxi0G6Cg",
+          "embededlink": "https://www.youtube.com/embed/jakDUlO86Ac"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "history": []
+}
